@@ -43,12 +43,13 @@ h1{
     }}
 @media(min-width: 701px){
     .intpics{
-        color:#50727B;
-        display:flex;
-        flex-direction: row;
-        justify-content: space-around;
-        flex-wrap: wrap
-        }}
+    color:#50727B;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}}
 div{
     text-align:center;
     padding:10px
